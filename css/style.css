@@ -1,0 +1,29 @@
+.reset {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    margin-top: 20%;
+    background: black;
+}
+
+.text1 {
+    position: relative;
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+    letter-spacing: 7px;
+}
+
+.text2 {
+    position: relative;
+    text-align: center;
+    color: orangered;
+    font-size: 30px;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  
+
